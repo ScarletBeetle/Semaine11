@@ -1,0 +1,39 @@
+body {
+    background-image: url(ignasi_pattern_s.png);
+}
+
+#text {
+    width: 150px;
+    height: 50px;
+    font-family: script;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 40%;
+    position: relative;
+}
+
+#button {
+    margin-left: 10px;
+    height: 50px;
+    background-color: #A51B2A;
+    font-size: 15px;
+    font-family: script;
+    font-style: bold;
+    border-radius: 40%;
+    position: relative;
+}
+
+
+#solution {
+    text-align: center;
+    border: 1px dotted black;
+    margin-top: 20px;
+    height: 50px;
+    width: 300px;
+    margin-left: 35%;
+    padding-top: 25px;
+    background-color: #FFD3B6;
+    opacity: 80;
+    position: relative;
+}
